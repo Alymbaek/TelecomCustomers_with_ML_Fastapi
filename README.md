@@ -84,10 +84,9 @@ Decision Tree	0.76	0.70	0.78	0.74	0.82
 
  Frontend-страница для ввода признаков
 
-7. Полезные ссылки
-Отчёт EDA (nbviewer)
+7. Dataset на Kaggle
+* [link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-Dataset на Kaggle
 
 Автор
 Алымбек Ибрагимов
