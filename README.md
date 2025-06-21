@@ -87,10 +87,9 @@ Decision Tree	0.76	0.70	0.78	0.74	0.82
 7. Dataset на Kaggle
 * [link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
----
 
-**Автор**  
-Алымбек Ибрагимов — 17 y.o. Junior Python/ML Engineer (Kyrgyzstan)  
-[Telegram](https://t.me/ml_engineer_man7) • [Email](mailto:alymbekibragimov46@gmail.com)
-
+Автор
+Алымбек Ибрагимов
+17 y.o. Junior Python/ML Engineer from Kyrgyzstan
+Telegram :@ml_engineer_man7 • Email: alymbekibragimov46@gmail.com
 
